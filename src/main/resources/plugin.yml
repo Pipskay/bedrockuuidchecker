@@ -1,8 +1,8 @@
 name: BedrockUUIDChecker
-version: 1.0.0
+version: 1.2.0
 main: com.example.bedrockuuidchecker.BedrockUUIDChecker
-api-version: 1.20
-description: Mendeteksi dan menangani UUID bug pada player Bedrock
+api-version: 1.21
+description: Mendeteksi dan memblokir UUID bug pada player Bedrock di PreLogin
 author: YourName
 
 softdepend:
